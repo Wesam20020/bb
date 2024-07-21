@@ -1,0 +1,22 @@
+body{
+  background-color: red;
+}
+
+#counter{
+  display: block;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;
+  color:black;
+  font-size: 10em;
+  
+
+}
+
+#button{
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 5em;
+  
+
+  
+}
